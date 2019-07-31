@@ -653,7 +653,6 @@ Now, we have a fully functional **Guestlist Manager** console app. We can create
 
 And there we have it! Our **Guestlist Manager** currently lets us manage the list directly. BUT that's only half the battle - wouldn't it be cool if we could also send invitations directly from the database? In my next post, I'll take this a step further and show you how to do this with [**MongoDB Stitch**] and [**SendGrid**].
 
-Check out the blog post here : [**Sending emails with MongoDB Stitch & SendGrid**](https://medium.com/p/2f2fbb)
 
 
 ---
