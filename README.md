@@ -1,6 +1,8 @@
 # guestlist-manager-cli-csharp
 **A console app written in C# that demonstrates how to use MongoDB C#/.NET Driver**
 
+![alt text](https://miro.medium.com/max/700/1*X_kUhGLtff22cTbfWVc82w.png)
+
 The main purpose of this article is to share code and to present some basics principles on how to implements CRUD (Create Read Update Delete) operations in a MongoDB database with C#.
 
 ---
