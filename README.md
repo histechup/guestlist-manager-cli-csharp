@@ -9,7 +9,7 @@ The main purpose of this article is to share code and to present some basics pri
 
 ## Context 
 
-Because of a [**big event coming soon in my life**](https://twitter.com/theTrendyTechie/status/1141522133849391105), I set myself a challenge to create an elegant console app to manage our guestlist and track RSVPs: This is how the project **Guestlist Manager app** project started.
+Because of a [**big event coming soon in my life**](https://twitter.com/theTrendyTechie/status/1141522133849391105), I set myself a challenge to create an elegant console app to manage our guestlist and track RSVPs: This is how the project **Guestlist Manager app** started.
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*qyc8q3YyEG5wmoaOTJVCDQ.gif)
 
