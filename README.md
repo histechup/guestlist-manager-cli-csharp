@@ -3,7 +3,7 @@
 
 ![alt text](https://miro.medium.com/max/700/1*X_kUhGLtff22cTbfWVc82w.png)
 
-The main purpose of this article is to share code and to present some basics principles on how to implements CRUD (Create Read Update Delete) operations in a MongoDB database with C#.
+The main purpose of this article is to share code and to present some basics principles on how to implement CRUD (Create Read Update Delete) operations in a MongoDB database with C#.
 
 ---
 
